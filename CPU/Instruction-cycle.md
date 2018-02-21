@@ -7,7 +7,7 @@
 [4. Sources](#sources)
 
 
-<a name="introduction"/>
+<a name="introduction"></a>
 
 ## Introduction
 
@@ -21,7 +21,7 @@ This is how a computer :
 
 **The CPU does that from boot-up to when the computer is shut-down.**
 
-<a name="components"/>
+<a name="components"></a>
 
 ## Components and Buses
 
@@ -44,7 +44,7 @@ The CPU needs to communicate with the outside world, and it does it through buse
 * *Address Bus*: Used to transfer the addresses of the memory or I/O devices. It is unidirectional
 * *Control Bus*: Used to process the data
 
-<a name="steps"/>
+<a name="steps"></a>
 
 ## Steps of the cycle
 
@@ -56,7 +56,9 @@ The CPU needs to communicate with the outside world, and it does it through buse
 6. The instruction is decoded and then executed by sending signals to components
 7. Repeat
 
-<a name="sources"/>
+In old CPUs, this was done sequentially, but modern CPUs execute these steps concurrently, and often in parallel, through an instruction pipeline.
+
+<a name="sources"></a>
 
 ## Sources
 
