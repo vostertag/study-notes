@@ -19,7 +19,7 @@ A queue is a collection in which the entities are **kept in order** and the prin
 
 ### Implementation
 
-Queues can easily be implemented with a linked-list that has a pointer to its head, and to its tail.
+Queues can easily be implemented with a linked-list that has a pointer to its head, and to its tail, or with an array.
 
 <a name="operations"></a>
 
