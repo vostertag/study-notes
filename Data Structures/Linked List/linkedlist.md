@@ -60,7 +60,7 @@ Adding an element at the end of a linked-list has a time complexity of **O(n)** 
 2. Create a new node with the new value
 3. Update the pointer of our previous final node to this new node
 
-**Note:** To go faster, it is possible to add a tail pointer which points to the end of the linked-list. In which case, this would be of O(1) in terms of time complexity. BUT removing the last element, even with this tail pointer would still be O(n) since we would not be able to find the node previous to the last one...
+**Note:** To go faster, it is possible to add a tail pointer which points to the end of the linked-list. In which case, this would be of O(1) in terms of time complexity. BUT removing the last element, even with this tail pointer, would still be O(n) since we would not be able to find the node previous to the last one...
 
 <a name="time"></a>
 
