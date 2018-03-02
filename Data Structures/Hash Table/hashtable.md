@@ -4,7 +4,7 @@
 
 [1. Hashing](#hash)  
 [2. Hash Functions](#functions)  
-[3. Hash Table](#hash-table)  
+[3. Hash Table](#table)  
 [4. Time Complexity](#time-complexity)  
 [5. Sources](#sources)
 
@@ -33,6 +33,8 @@ A *good* hash function should:
 * Have Less collisions
 
 **Note:** Irrespective of how good a hash function is, **collisions are bound to occur**. Therefore, to maintain the performance of a hash table, it is **important to manage collisions** through various collision resolution techniques.
+
+<a name="table"></a>
 
 ## Hash Table
 
