@@ -107,7 +107,7 @@ A graph is **connected** when **there is a path between every pair of vertices**
 
 ### Tree
 
-A tree is a **connected acyclic graph**. More about it [here](here).
+A tree is a **connected acyclic graph**. More about it [here](https://github.com/vostertag/study-notes/blob/master/Graph%20Theory/tree.md).
 
 ![Tree](https://i.stack.imgur.com/HUufp.png)
 
