@@ -23,3 +23,5 @@ This is WIP, and probably will be forever as there is always something new to le
 * [Graph Theory](https://github.com/vostertag/study-notes/tree/master/Graph%20Theory)
   * [Graph](https://github.com/vostertag/study-notes/blob/master/Graph%20Theory/graph.md)
   * [Tree](https://github.com/vostertag/study-notes/blob/master/Graph%20Theory/tree.md)
+  * [Algorithms](https://github.com/vostertag/study-notes/tree/master/Graph%20Theory/Algorithms)  
+    * [Searching in a graph](https://github.com/vostertag/study-notes/blob/master/Graph%20Theory/Algorithms/searches.md)
