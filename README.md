@@ -26,3 +26,4 @@ This is WIP, and probably will be forever as there is always something new to le
   * [Algorithms](https://github.com/vostertag/study-notes/tree/master/Graph%20Theory/Algorithms)  
     * [Searching in a graph (BFS & DFS)](https://github.com/vostertag/study-notes/blob/master/Graph%20Theory/Algorithms/searches.md)
     * [Dijkstra](https://github.com/vostertag/study-notes/blob/master/Graph%20Theory/Algorithms/dijkstra.md)
+    * [Bellman-Ford](https://github.com/vostertag/study-notes/blob/master/Graph%20Theory/Algorithms/bellmanford.md)
