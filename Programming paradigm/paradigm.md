@@ -7,7 +7,8 @@
 [3. The Functional Paradigm](#the-functional-paradigm)  
 [4. The Logic Paradigm](#the-logic-paradigm)  
 [5. The Object-oriented Paradigm](#the-object-oriented-paradigm)  
-[6. Sources](#sources)
+[6. Some other paradigms](#some-other-paradigms)  
+[7. Sources](#sources)
 
 ## Introduction
 
@@ -36,6 +37,12 @@ Some programs using the logic paradigm are:  Prolog, Answer Set Programming (ASP
 Based on the concept of **"objects"**, which may contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods. A feature of objects is that an object's procedures **can access and often modify the data fields of the object** with which they are associated.
 
 Some programs using the object-oriented programming paradigm are:  Java, C++, C#, Python, ...
+
+## Some other paradigms
+
+* **Declarative** which does not state the order in which operations execute.
+* **Procedural** which groups code into functions.
+* **Symbolic** programming which has a particular style of syntax and grammar.
 
 ## Sources
 
