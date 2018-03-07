@@ -3,10 +3,10 @@
 ### Table of Contents
 
 [1. Introduction](#introduction)  
-[2.  The Imperative Paradigm](#the-imperative-paradigm)
-[3. The Functional Paradigm](#the-functional-paradigm)
-[4. The Logic Paradigm](#the-logic-paradigm)
-[5. The Object-oriented Paradigm](#the-object-oriented-paradigm)
+[2.  The Imperative Paradigm](#the-imperative-paradigm)  
+[3. The Functional Paradigm](#the-functional-paradigm)  
+[4. The Logic Paradigm](#the-logic-paradigm)  
+[5. The Object-oriented Paradigm](#the-object-oriented-paradigm)  
 [6. Sources](#sources)
 
 ## Introduction
