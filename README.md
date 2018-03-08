@@ -27,3 +27,7 @@ This is WIP, and probably will be forever as there is always something new to le
     * [Searching in a graph (BFS & DFS)](https://github.com/vostertag/study-notes/blob/master/Graph%20Theory/Algorithms/searches.md)
     * [Dijkstra](https://github.com/vostertag/study-notes/blob/master/Graph%20Theory/Algorithms/dijkstra.md)
     * [Bellman-Ford](https://github.com/vostertag/study-notes/blob/master/Graph%20Theory/Algorithms/bellmanford.md)
+* [Programming paradigm](https://github.com/vostertag/study-notes/tree/master/Programming%20paradigm)
+  * [Introduction to programming paradigms](https://github.com/vostertag/study-notes/blob/master/Programming%20paradigm/paradigm.md)
+  * [Object-Oriented Programming](https://github.com/vostertag/study-notes/tree/master/Programming%20paradigm/Object-Oriented%20Programming)
+    * [Features and concepts of OOP](https://github.com/vostertag/study-notes/blob/master/Programming%20paradigm/Object-Oriented%20Programming/featuresandconcepts.md)
