@@ -58,7 +58,7 @@ Alice can get the original message using her private key:
 
 ### Why it is effective
 
-For an attacker to find the private key d, he must find φ(n). Without knowing p and q, this takes too much time using brute force to be viable.
+For an attacker to find the private key d, he must find φ(n). Without knowing p and q, this takes too much time using brute force to be viable (as long as n is large enough).
 
 ## Sources
 
