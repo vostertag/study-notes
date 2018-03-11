@@ -6,6 +6,7 @@
 [2. True Random Number Generators](#true-random-number-generators)  
 [3. Pseudo-random Number Generators](#pseudo-random-number-generators)
 * [3.1. Middle-square method](#middle-square-method)  
+* [3.2. Cryptographically secure pseudorandom number generators](#cryptographically-secure-pseudorandom-number-generators)
 
 [4. Difference between PRNG and TRNG](#difference-between-prng-and-trng)  
 [5. Sources](#sources)
@@ -43,9 +44,16 @@ Middle part: 529
 ...
 ```
 
+###  Cryptographically secure pseudorandom number generators
+
+That is to say a pseudo-random number generator (PRNG) with properties that make it **suitable for use in cryptography**. Such generators require:
+
+* Resist the **next-bit test**, which means that if an attacker get the first k bits of a random sequence, he won't be able to predict the (k+1)th bit with **probability of success non-negligibly better than 50%**. 
+* Withstand **state compromise extensions**: if part the generator's state has been revealed, then it should be **impossible to reconstruct the stream of random numbers prior to the revelation**.
+
 ## Difference between PRNG and TRNG
 
-The best way to see the difference between the two is to generate their **random walk**, which is  mathematical object that describes a path that consists of a succession of random steps on some mathematical space such as the integers.
+The best way to see the difference between the two is to generate their **random walk**, which is a mathematical object that describes a path that consists of a succession of random steps on some mathematical space such as the integers.
 
 ![Random Walk example](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Random_walk_25000_not_animated.svg/280px-Random_walk_25000_not_animated.svg.png)
 
