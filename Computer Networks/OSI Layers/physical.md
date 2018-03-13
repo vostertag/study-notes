@@ -5,7 +5,8 @@
 [1. Introduction](#introduction)  
 [2. Functions](#functions)  
 [3. Physical Links](#physical-links)  
-[4. Sources](#sources)
+[4. Physical Topologies](#physical-topologies)
+[5. Sources](#sources)
 
 
 ## Introduction
@@ -48,8 +49,29 @@ Each media will have different properties that justify choosing them over any ot
 * Fiber Optic
 * IRDA (Wireless Infrared)
 
+## Physical Topologies
+
+It is a **way to organize the network**.
+
+### Star Topology
+
+![star](https://upload.wikimedia.org/wikipedia/commons/6/66/NetworkTopology-Star.png)
+
+### Ring Topology
+
+![ring](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NetworkTopology-Ring.png/220px-NetworkTopology-Ring.png)
+
+### Mesh Topology
+
+![mesh](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NetworkTopology-Mesh.png/220px-NetworkTopology-Mesh.png)
+
+### Bus Topology
+
+![bus](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BusNetwork.svg/220px-BusNetwork.svg.png)
+
 ## Sources
 
 * [https://www.youtube.com/watch?v=qSk5SLrg7Yg](https://www.youtube.com/watch?v=qSk5SLrg7Yg)
 * [http://www.highteck.net/EN/Physical/OSI_Physical_Layer.html](http://www.highteck.net/EN/Physical/OSI_Physical_Layer.html)
 * [https://en.wikipedia.org/wiki/Physical_layer](https://en.wikipedia.org/wiki/Physical_layer)
+* [https://en.wikipedia.org/wiki/Network_topology](https://en.wikipedia.org/wiki/Network_topology)
