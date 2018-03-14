@@ -1,0 +1,17 @@
+# The Transport Layer ( WIP )
+
+
+
+- - - - - - - -- - 
+
+Data in segments
+
+TCP: Reliable (if segment lost, resent), 3way handshake (syn, syn-ack, ack)
+
+UDP: UNreliable (no 3way handshake), no resent, but fast (cause low overhead)
+
+Windowing : allow to adjust the amount of data sent, always ajusted over time
+
+Buffering : routers ave memory to store segments if bandwith is not available, if overflow, segments will be dropped
+
+Firewalls
